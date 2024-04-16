@@ -1,1 +1,7 @@
-./build/
+/build/CMakeFiles/
+/build/elf2uf2/
+/build/generated/
+/build/pico-sdk/
+/build/pioasm/
+
+
