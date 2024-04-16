@@ -1,0 +1,3 @@
+/home/humi/pico/max31855/build/pioasm/CMakeFiles/pioasm.dir
+/home/humi/pico/max31855/build/pioasm/CMakeFiles/edit_cache.dir
+/home/humi/pico/max31855/build/pioasm/CMakeFiles/rebuild_cache.dir
